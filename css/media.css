@@ -1,0 +1,40 @@
+@media (min-width:300px) and (max-width:571px){
+
+  .socialmedia ul li {
+    margin-right: 10px;
+  }
+
+  .tabs .col-lg-2 button {
+    display:inline-block;
+    margin-bottom: 20px;
+    margin-right: 5px;
+  }
+
+  .tabs .col-lg-2{
+    text-align:center;
+  }
+
+  .footer ul {
+    margin-left: 13px;
+  }
+}
+@media(min-width:571px) and (max-width:1303px){
+
+  .socialmedia ul li {
+    margin-right: 25px;
+  }
+
+  .tabs .col-lg-2 button {
+    display:inline-block;
+    margin-bottom: 20px;
+    margin-right: 5px;
+  }
+
+  .tabs .col-lg-2{
+    text-align:center;
+  }
+
+  .footer ul {
+    margin-left: 13px;
+  }
+}
